@@ -1,10 +1,6 @@
 # SacrOS-Phone (Paused - Waiting for OS)
 A Fully Open Source modular phone encouraging innovation and design.
 
-## Overview
-
-This phone (As of PROTO-I) uses the Raspberry Pi Compute Module 5 (CM5) as the main power house along with a custom IO board. In the future, we plan to make a fully custom board, but currently we need to reply on pre-developed architecture.
-
 ## Baseplate Spec Sheet
 
 ### Components (For Baseplate)
