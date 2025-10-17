@@ -1,4 +1,4 @@
-# SacrOS-Phone
+# SacrOS-Phone (Paused - Waiting for OS)
 A Fully Open Source modular phone encouraging innovation and design.
 
 ## Overview
